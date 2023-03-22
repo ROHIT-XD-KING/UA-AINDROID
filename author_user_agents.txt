@@ -1,0 +1,500 @@
+Mozilla/5.0 (Linux; Android 7.1.1; Samsung Moto G9 Play Build/RP1A.403BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; LG OnePlus 9 Pro Build/RP1A.876BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 6.0; Sony Pixel 5 Build/RP1A.514BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Motorola Moto G9 Play Build/RP1A.382BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Google LG V60 ThinQ Build/RP1A.720BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; LG Xperia XZ3 Build/RP1A.945BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.0; Motorola OnePlus 9 Pro Build/RP1A.539BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 6.0; LG Mate 40 Pro Build/RP1A.903BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; Sony HTC U12+ Build/RP1A.368BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.0; Motorola OnePlus 9 Pro Build/RP1A.543BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Xiaomi Nokia 8.3 Build/RP1A.816BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; Xiaomi HTC U12+ Build/RP1A.639BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.1; LG Xperia XZ3 Build/RP1A.129BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Nokia 8.3 Build/RP1A.953BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Samsung Pixel 5 Build/RP1A.351BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 6.0; OnePlus HTC U12+ Build/RP1A.158BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.1.1; Samsung LG V60 ThinQ Build/RP1A.357BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 8.0; Sony Xperia XZ3 Build/RP1A.696BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Huawei Mi 11 Build/RP1A.137BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Nokia Moto G9 Play Build/RP1A.450BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 5.1.1; Google HTC U12+ Build/RP1A.797BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Sony LG V60 ThinQ Build/RP1A.697BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Xiaomi Pixel 5 Build/RP1A.162BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Xiaomi Nokia 8.3 Build/RP1A.859BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.1; Xiaomi OnePlus 9 Pro Build/RP1A.187BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Google Galaxy S21 Build/RP1A.310BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; Huawei Nokia 8.3 Build/RP1A.807BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; Xiaomi Xperia XZ3 Build/RP1A.717BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 10; Samsung Galaxy S21 Build/RP1A.779BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; OnePlus LG V60 ThinQ Build/RP1A.271BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Xperia XZ3 Build/RP1A.760BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; Sony HTC U12+ Build/RP1A.394BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; LG Pixel 5 Build/RP1A.196BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.1.1; Google Mi 11 Build/RP1A.325BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.0; HTC Moto G9 Play Build/RP1A.547BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 9; Xiaomi Mate 40 Pro Build/RP1A.276BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Samsung LG V60 ThinQ Build/RP1A.982BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.0; Nokia LG V60 ThinQ Build/RP1A.865BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; LG LG V60 ThinQ Build/RP1A.767BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; OnePlus LG V60 ThinQ Build/RP1A.730BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 9; Xiaomi Mate 40 Pro Build/RP1A.358BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 12; Google HTC U12+ Build/RP1A.904BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; Samsung Moto G9 Play Build/RP1A.999BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 5.1.1; Nokia LG V60 ThinQ Build/RP1A.397BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 6.0; Nokia LG V60 ThinQ Build/RP1A.512BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 9; Motorola LG V60 ThinQ Build/RP1A.806BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 6.0; HTC Mate 40 Pro Build/RP1A.273BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.0; Xiaomi OnePlus 9 Pro Build/RP1A.637BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 11; Sony Galaxy S21 Build/RP1A.686BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.1.1; OnePlus Xperia XZ3 Build/RP1A.293BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; Google LG V60 ThinQ Build/RP1A.534BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 11; Samsung Pixel 5 Build/RP1A.542BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; Nokia Pixel 5 Build/RP1A.747BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 7.0; Motorola Moto G9 Play Build/RP1A.851BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; HTC Moto G9 Play Build/RP1A.924BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 5.1.1; Nokia Nokia 8.3 Build/RP1A.622BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 5.1.1; LG Mi 11 Build/RP1A.706BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Google Pixel 5 Build/RP1A.902BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 5.1.1; Huawei Pixel 5 Build/RP1A.995BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 12; Sony HTC U12+ Build/RP1A.272BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.1; HTC Xperia XZ3 Build/RP1A.966BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; Nokia Mate 40 Pro Build/RP1A.213BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; OnePlus LG V60 ThinQ Build/RP1A.556BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Nokia 8.3 Build/RP1A.235BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 9; LG Moto G9 Play Build/RP1A.316BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 6.0; Motorola LG V60 ThinQ Build/RP1A.476BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 9; LG HTC U12+ Build/RP1A.697BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.0; HTC Pixel 5 Build/RP1A.422BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Nokia Mi 11 Build/RP1A.775BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; Samsung Galaxy S21 Build/RP1A.841BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 6.0; Huawei OnePlus 9 Pro Build/RP1A.794BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 10; Sony Moto G9 Play Build/RP1A.266BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 6.0; Sony Moto G9 Play Build/RP1A.521BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 9; Google Mate 40 Pro Build/RP1A.249BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 6.0; Google Pixel 5 Build/RP1A.819BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei OnePlus 9 Pro Build/RP1A.982BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Mate 40 Pro Build/RP1A.638BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 12; OnePlus HTC U12+ Build/RP1A.349BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 9; HTC Xperia XZ3 Build/RP1A.929BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Motorola Nokia 8.3 Build/RP1A.230BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; Xiaomi OnePlus 9 Pro Build/RP1A.989BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.0; OnePlus Galaxy S21 Build/RP1A.251BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; Google Mi 11 Build/RP1A.870BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; OnePlus LG V60 ThinQ Build/RP1A.336BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.1; Samsung Moto G9 Play Build/RP1A.550BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 10; OnePlus Xperia XZ3 Build/RP1A.525BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 11; LG Nokia 8.3 Build/RP1A.561BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Google OnePlus 9 Pro Build/RP1A.855BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; Google Moto G9 Play Build/RP1A.757BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 11; Nokia Moto G9 Play Build/RP1A.210BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 6.0; Huawei Mate 40 Pro Build/RP1A.712BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; Google Xperia XZ3 Build/RP1A.786BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Google Mi 11 Build/RP1A.945BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; HTC Mi 11 Build/RP1A.142BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.0; Nokia Moto G9 Play Build/RP1A.177BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; HTC OnePlus 9 Pro Build/RP1A.861BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.1.1; Nokia Xperia XZ3 Build/RP1A.118BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; Samsung Xperia XZ3 Build/RP1A.201BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 11; LG Mate 40 Pro Build/RP1A.255BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; HTC Mate 40 Pro Build/RP1A.778BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; HTC Nokia 8.3 Build/RP1A.817BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.0; Motorola LG V60 ThinQ Build/RP1A.168BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 5.1.1; Huawei Xperia XZ3 Build/RP1A.175BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; Google HTC U12+ Build/RP1A.162BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; OnePlus Mate 40 Pro Build/RP1A.262BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 11; HTC Galaxy S21 Build/RP1A.581BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 10; Motorola Xperia XZ3 Build/RP1A.680BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei LG V60 ThinQ Build/RP1A.548BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Motorola Galaxy S21 Build/RP1A.215BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 5.1.1; HTC OnePlus 9 Pro Build/RP1A.240BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Xiaomi Xperia XZ3 Build/RP1A.142BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 11; Sony Pixel 5 Build/RP1A.847BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; HTC HTC U12+ Build/RP1A.223BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 11; Samsung Xperia XZ3 Build/RP1A.452BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; OnePlus Nokia 8.3 Build/RP1A.305BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; HTC Nokia 8.3 Build/RP1A.584BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.0; LG Galaxy S21 Build/RP1A.724BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Galaxy S21 Build/RP1A.732BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 7.0; LG Xperia XZ3 Build/RP1A.403BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.0; Google Xperia XZ3 Build/RP1A.760BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 11; Xiaomi Galaxy S21 Build/RP1A.906BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; Google Moto G9 Play Build/RP1A.368BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; Nokia Galaxy S21 Build/RP1A.401BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Nokia LG V60 ThinQ Build/RP1A.578BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 5.1.1; Sony OnePlus 9 Pro Build/RP1A.437BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.0; Sony HTC U12+ Build/RP1A.986BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.0; Motorola OnePlus 9 Pro Build/RP1A.951BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 9; OnePlus Galaxy S21 Build/RP1A.832BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Google Moto G9 Play Build/RP1A.601BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 9; Samsung Moto G9 Play Build/RP1A.260BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 9; Xiaomi OnePlus 9 Pro Build/RP1A.125BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; Samsung LG V60 ThinQ Build/RP1A.865BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Huawei Mi 11 Build/RP1A.698BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; Xiaomi Nokia 8.3 Build/RP1A.341BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Google Galaxy S21 Build/RP1A.642BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 5.1.1; Huawei Nokia 8.3 Build/RP1A.149BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Sony OnePlus 9 Pro Build/RP1A.566BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; Motorola Pixel 5 Build/RP1A.808BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 6.0; Sony Nokia 8.3 Build/RP1A.984BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 10; Nokia Mi 11 Build/RP1A.258BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 9; Motorola Galaxy S21 Build/RP1A.127BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 11; LG Nokia 8.3 Build/RP1A.617BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Google LG V60 ThinQ Build/RP1A.267BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.0; HTC OnePlus 9 Pro Build/RP1A.940BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.0; Samsung HTC U12+ Build/RP1A.649BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Google Galaxy S21 Build/RP1A.647BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 9; Xiaomi OnePlus 9 Pro Build/RP1A.376BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 6.0; Google OnePlus 9 Pro Build/RP1A.798BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 12; Sony Pixel 5 Build/RP1A.636BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 11; Google Nokia 8.3 Build/RP1A.783BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.0; LG Pixel 5 Build/RP1A.739BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Huawei Mate 40 Pro Build/RP1A.712BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Google HTC U12+ Build/RP1A.112BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 7.1.1; Samsung Moto G9 Play Build/RP1A.283BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; Motorola Nokia 8.3 Build/RP1A.747BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Galaxy S21 Build/RP1A.132BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 7.0; Sony Nokia 8.3 Build/RP1A.471BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 9; LG Galaxy S21 Build/RP1A.368BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 12; Google OnePlus 9 Pro Build/RP1A.596BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Google HTC U12+ Build/RP1A.578BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Nokia 8.3 Build/RP1A.165BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 6.0; HTC OnePlus 9 Pro Build/RP1A.835BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; Xiaomi LG V60 ThinQ Build/RP1A.383BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 11; Nokia Moto G9 Play Build/RP1A.512BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; Motorola Galaxy S21 Build/RP1A.780BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 11; Motorola HTC U12+ Build/RP1A.623BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 12; Huawei Nokia 8.3 Build/RP1A.415BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Mi 11 Build/RP1A.459BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.1; Nokia Mi 11 Build/RP1A.120BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei OnePlus 9 Pro Build/RP1A.319BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; HTC HTC U12+ Build/RP1A.278BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.1; Sony Pixel 5 Build/RP1A.148BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 7.0; Motorola Mate 40 Pro Build/RP1A.424BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.0; Xiaomi Moto G9 Play Build/RP1A.196BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Motorola HTC U12+ Build/RP1A.384BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Xiaomi OnePlus 9 Pro Build/RP1A.933BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.0; Sony Nokia 8.3 Build/RP1A.996BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 5.1.1; Google Mate 40 Pro Build/RP1A.335BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; Nokia Mate 40 Pro Build/RP1A.689BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; Nokia Mi 11 Build/RP1A.690BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 5.1.1; Sony OnePlus 9 Pro Build/RP1A.451BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 11; Nokia Mi 11 Build/RP1A.360BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.0; Sony Mi 11 Build/RP1A.333BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; LG Galaxy S21 Build/RP1A.408BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 12; LG OnePlus 9 Pro Build/RP1A.795BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Sony OnePlus 9 Pro Build/RP1A.343BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 10; Xiaomi Galaxy S21 Build/RP1A.239BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; LG Galaxy S21 Build/RP1A.372BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; Huawei Moto G9 Play Build/RP1A.780BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Huawei Pixel 5 Build/RP1A.571BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Sony OnePlus 9 Pro Build/RP1A.111BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.0; Xiaomi Galaxy S21 Build/RP1A.772BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Sony Mate 40 Pro Build/RP1A.761BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 10; Nokia Xperia XZ3 Build/RP1A.516BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.0; Google Moto G9 Play Build/RP1A.265BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Xiaomi LG V60 ThinQ Build/RP1A.655BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.1; Sony Mate 40 Pro Build/RP1A.755BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; Nokia Nokia 8.3 Build/RP1A.715BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.0; Sony Nokia 8.3 Build/RP1A.235BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Galaxy S21 Build/RP1A.836BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 9; LG Nokia 8.3 Build/RP1A.809BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Samsung Nokia 8.3 Build/RP1A.259BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Nokia 8.3 Build/RP1A.605BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 5.1.1; Motorola LG V60 ThinQ Build/RP1A.747BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; Samsung Pixel 5 Build/RP1A.637BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 9; Sony LG V60 ThinQ Build/RP1A.853BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 11; OnePlus OnePlus 9 Pro Build/RP1A.851BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 12; OnePlus Xperia XZ3 Build/RP1A.786BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; Xiaomi Nokia 8.3 Build/RP1A.353BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Nokia LG V60 ThinQ Build/RP1A.747BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; Nokia Xperia XZ3 Build/RP1A.751BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 11; HTC Mate 40 Pro Build/RP1A.920BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Google LG V60 ThinQ Build/RP1A.489BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; Sony Mi 11 Build/RP1A.982BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Samsung Nokia 8.3 Build/RP1A.732BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.0; Motorola Moto G9 Play Build/RP1A.780BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; Huawei Xperia XZ3 Build/RP1A.178BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 6.0; HTC Mi 11 Build/RP1A.933BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; Sony Xperia XZ3 Build/RP1A.375BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; LG Nokia 8.3 Build/RP1A.280BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Xiaomi LG V60 ThinQ Build/RP1A.206BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 12; LG HTC U12+ Build/RP1A.571BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 6.0; Huawei HTC U12+ Build/RP1A.105BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.1; Sony Xperia XZ3 Build/RP1A.953BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Huawei Mi 11 Build/RP1A.389BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.0; Sony HTC U12+ Build/RP1A.242BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; LG Moto G9 Play Build/RP1A.928BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.0; Nokia Xperia XZ3 Build/RP1A.890BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 5.1.1; Google Mate 40 Pro Build/RP1A.294BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; Nokia Galaxy S21 Build/RP1A.964BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Xiaomi OnePlus 9 Pro Build/RP1A.649BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 10; Xiaomi Nokia 8.3 Build/RP1A.471BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Xiaomi LG V60 ThinQ Build/RP1A.167BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 7.0; LG Xperia XZ3 Build/RP1A.956BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.1; HTC LG V60 ThinQ Build/RP1A.813BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 11; Sony LG V60 ThinQ Build/RP1A.736BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 9; Motorola Galaxy S21 Build/RP1A.771BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; Sony Pixel 5 Build/RP1A.472BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 5.1.1; OnePlus Mate 40 Pro Build/RP1A.580BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.1; Nokia Mate 40 Pro Build/RP1A.229BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Motorola Mi 11 Build/RP1A.545BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 12; OnePlus Galaxy S21 Build/RP1A.752BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Motorola Mi 11 Build/RP1A.247BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 12; Samsung LG V60 ThinQ Build/RP1A.223BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; LG Nokia 8.3 Build/RP1A.342BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 11; Motorola LG V60 ThinQ Build/RP1A.995BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; LG Galaxy S21 Build/RP1A.968BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; OnePlus Galaxy S21 Build/RP1A.986BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 10; Motorola LG V60 ThinQ Build/RP1A.558BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.0; Samsung HTC U12+ Build/RP1A.302BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.0; Nokia HTC U12+ Build/RP1A.627BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 12; Google Xperia XZ3 Build/RP1A.560BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Moto G9 Play Build/RP1A.379BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 9; OnePlus Nokia 8.3 Build/RP1A.725BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Nokia LG V60 ThinQ Build/RP1A.974BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 9; HTC Nokia 8.3 Build/RP1A.415BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 11; HTC OnePlus 9 Pro Build/RP1A.316BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Sony LG V60 ThinQ Build/RP1A.871BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; OnePlus LG V60 ThinQ Build/RP1A.635BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 10; Nokia Galaxy S21 Build/RP1A.976BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; Xiaomi Galaxy S21 Build/RP1A.851BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.1; HTC Galaxy S21 Build/RP1A.169BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; HTC LG V60 ThinQ Build/RP1A.385BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Huawei Pixel 5 Build/RP1A.573BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; Google Moto G9 Play Build/RP1A.935BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.1; Motorola OnePlus 9 Pro Build/RP1A.484BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Samsung LG V60 ThinQ Build/RP1A.139BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 9; Xiaomi Moto G9 Play Build/RP1A.421BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei Pixel 5 Build/RP1A.327BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; OnePlus Mate 40 Pro Build/RP1A.123BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 10; Samsung Moto G9 Play Build/RP1A.445BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; Huawei Mate 40 Pro Build/RP1A.607BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 6.0; Motorola Mate 40 Pro Build/RP1A.720BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 11; Motorola Pixel 5 Build/RP1A.900BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.0; Xiaomi Mi 11 Build/RP1A.910BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 6.0; LG Mi 11 Build/RP1A.249BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 9; HTC OnePlus 9 Pro Build/RP1A.926BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 6.0; Nokia LG V60 ThinQ Build/RP1A.131BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Sony Pixel 5 Build/RP1A.632BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; Nokia Galaxy S21 Build/RP1A.402BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; LG Mate 40 Pro Build/RP1A.462BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei Nokia 8.3 Build/RP1A.238BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; Sony Xperia XZ3 Build/RP1A.298BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 6.0; Google Xperia XZ3 Build/RP1A.787BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.1; LG Pixel 5 Build/RP1A.843BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 6.0; Samsung Galaxy S21 Build/RP1A.263BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.0; LG Nokia 8.3 Build/RP1A.360BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 9; Google LG V60 ThinQ Build/RP1A.807BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Samsung LG V60 ThinQ Build/RP1A.807BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; OnePlus Mi 11 Build/RP1A.701BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 11; Google Moto G9 Play Build/RP1A.781BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.0; Google LG V60 ThinQ Build/RP1A.111BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 11; LG OnePlus 9 Pro Build/RP1A.382BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Nokia LG V60 ThinQ Build/RP1A.671BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 5.1.1; Huawei Nokia 8.3 Build/RP1A.365BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 6.0; Nokia Mate 40 Pro Build/RP1A.563BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.1; Xiaomi Xperia XZ3 Build/RP1A.624BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.0; HTC Mate 40 Pro Build/RP1A.891BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.1.1; Xiaomi Mate 40 Pro Build/RP1A.272BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Samsung Galaxy S21 Build/RP1A.119BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.0; Motorola Moto G9 Play Build/RP1A.924BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 5.1.1; OnePlus Moto G9 Play Build/RP1A.934BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 8.1; Google Nokia 8.3 Build/RP1A.268BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Motorola HTC U12+ Build/RP1A.232BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 6.0; Samsung Xperia XZ3 Build/RP1A.622BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.1.1; OnePlus Nokia 8.3 Build/RP1A.512BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.0; Nokia Galaxy S21 Build/RP1A.419BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 12; Nokia Nokia 8.3 Build/RP1A.654BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Motorola HTC U12+ Build/RP1A.195BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 9; Nokia OnePlus 9 Pro Build/RP1A.267BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; Google Moto G9 Play Build/RP1A.639BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; Sony OnePlus 9 Pro Build/RP1A.185BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Samsung Mate 40 Pro Build/RP1A.533BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Nokia LG V60 ThinQ Build/RP1A.526BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei HTC U12+ Build/RP1A.926BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; Xiaomi Nokia 8.3 Build/RP1A.659BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; HTC Galaxy S21 Build/RP1A.826BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 12; Motorola Nokia 8.3 Build/RP1A.494BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Motorola HTC U12+ Build/RP1A.630BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Samsung Xperia XZ3 Build/RP1A.980BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; Huawei Moto G9 Play Build/RP1A.663BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; Nokia Mi 11 Build/RP1A.396BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 7.0; Huawei Nokia 8.3 Build/RP1A.982BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; Motorola Mi 11 Build/RP1A.663BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; Google Galaxy S21 Build/RP1A.844BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 6.0; Sony LG V60 ThinQ Build/RP1A.529BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 6.0; LG Xperia XZ3 Build/RP1A.783BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; OnePlus Xperia XZ3 Build/RP1A.166BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 11; Samsung Pixel 5 Build/RP1A.697BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 5.1.1; HTC Moto G9 Play Build/RP1A.607BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Motorola Xperia XZ3 Build/RP1A.830BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 11; Google Moto G9 Play Build/RP1A.521BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 5.1.1; LG Xperia XZ3 Build/RP1A.123BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 9; Huawei LG V60 ThinQ Build/RP1A.557BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 7.1.1; Google Pixel 5 Build/RP1A.320BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 9; Samsung Mate 40 Pro Build/RP1A.297BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.1.1; OnePlus LG V60 ThinQ Build/RP1A.714BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.1.1; LG HTC U12+ Build/RP1A.647BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; LG Mate 40 Pro Build/RP1A.705BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; HTC Xperia XZ3 Build/RP1A.380BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 6.0; Sony Xperia XZ3 Build/RP1A.388BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 6.0; OnePlus Xperia XZ3 Build/RP1A.189BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; Huawei Galaxy S21 Build/RP1A.337BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Xiaomi Mate 40 Pro Build/RP1A.564BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; Google Galaxy S21 Build/RP1A.196BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Mi 11 Build/RP1A.609BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.1; Samsung HTC U12+ Build/RP1A.272BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 10; HTC Pixel 5 Build/RP1A.925BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Xiaomi Mate 40 Pro Build/RP1A.958BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; Motorola HTC U12+ Build/RP1A.458BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 9; Google HTC U12+ Build/RP1A.642BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 9; Motorola Mate 40 Pro Build/RP1A.850BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Sony Moto G9 Play Build/RP1A.665BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 10; Xiaomi Galaxy S21 Build/RP1A.129BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 11; OnePlus Galaxy S21 Build/RP1A.629BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; Motorola Moto G9 Play Build/RP1A.402BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; Motorola HTC U12+ Build/RP1A.190BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 9; Xiaomi OnePlus 9 Pro Build/RP1A.105BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Motorola Pixel 5 Build/RP1A.695BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 9; LG Galaxy S21 Build/RP1A.663BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; OnePlus LG V60 ThinQ Build/RP1A.561BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 6.0; Google HTC U12+ Build/RP1A.204BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; Sony Mate 40 Pro Build/RP1A.893BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 6.0; Huawei Xperia XZ3 Build/RP1A.826BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Mi 11 Build/RP1A.926BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Nokia Nokia 8.3 Build/RP1A.339BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Google Nokia 8.3 Build/RP1A.775BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 9; LG Galaxy S21 Build/RP1A.297BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 6.0; Xiaomi Nokia 8.3 Build/RP1A.448BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; HTC Mi 11 Build/RP1A.678BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 10; Google LG V60 ThinQ Build/RP1A.846BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 9; Xiaomi Moto G9 Play Build/RP1A.326BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; Xiaomi Mi 11 Build/RP1A.171BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 11; Sony Nokia 8.3 Build/RP1A.850BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.0; Nokia Mi 11 Build/RP1A.740BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; Nokia Galaxy S21 Build/RP1A.302BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 7.0; Samsung HTC U12+ Build/RP1A.246BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; OnePlus Nokia 8.3 Build/RP1A.226BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.1; HTC Xperia XZ3 Build/RP1A.322BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 11; Sony LG V60 ThinQ Build/RP1A.915BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 12; OnePlus LG V60 ThinQ Build/RP1A.349BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 12; LG Moto G9 Play Build/RP1A.715BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Samsung HTC U12+ Build/RP1A.306BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 11; Xiaomi OnePlus 9 Pro Build/RP1A.772BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; Samsung Nokia 8.3 Build/RP1A.174BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 7.0; Google OnePlus 9 Pro Build/RP1A.701BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; HTC Moto G9 Play Build/RP1A.623BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; Sony HTC U12+ Build/RP1A.607BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.1.1; Nokia Moto G9 Play Build/RP1A.322BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.1; Nokia Pixel 5 Build/RP1A.946BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 9; Google Galaxy S21 Build/RP1A.651BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 12; Samsung HTC U12+ Build/RP1A.327BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Moto G9 Play Build/RP1A.204BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 8.1; Samsung HTC U12+ Build/RP1A.864BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei Mi 11 Build/RP1A.829BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Google Moto G9 Play Build/RP1A.536BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.1.1; LG OnePlus 9 Pro Build/RP1A.890BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; Nokia Mi 11 Build/RP1A.164BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; Huawei OnePlus 9 Pro Build/RP1A.329BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 8.1; LG Nokia 8.3 Build/RP1A.598BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 10; Nokia LG V60 ThinQ Build/RP1A.700BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; HTC Mate 40 Pro Build/RP1A.432BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.0; LG HTC U12+ Build/RP1A.610BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 6.0; OnePlus Nokia 8.3 Build/RP1A.786BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; LG LG V60 ThinQ Build/RP1A.302BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Google Pixel 5 Build/RP1A.385BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; HTC Moto G9 Play Build/RP1A.277BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 6.0; LG HTC U12+ Build/RP1A.251BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 6.0; Huawei HTC U12+ Build/RP1A.942BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 11; Xiaomi Mi 11 Build/RP1A.963BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; Xiaomi Mate 40 Pro Build/RP1A.705BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 12; Motorola Xperia XZ3 Build/RP1A.363BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; Motorola LG V60 ThinQ Build/RP1A.787BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Samsung Mi 11 Build/RP1A.575BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Moto G9 Play Build/RP1A.707BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.1.1; Google Galaxy S21 Build/RP1A.334BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.0; Samsung Xperia XZ3 Build/RP1A.361BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 7.1.1; LG Pixel 5 Build/RP1A.221BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 11; Google LG V60 ThinQ Build/RP1A.914BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 9; HTC Moto G9 Play Build/RP1A.617BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 10; Nokia OnePlus 9 Pro Build/RP1A.147BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.0; Nokia Pixel 5 Build/RP1A.432BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 5.1.1; Google Xperia XZ3 Build/RP1A.120BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; LG LG V60 ThinQ Build/RP1A.857BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.1; OnePlus LG V60 ThinQ Build/RP1A.751BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 6.0; Xiaomi Moto G9 Play Build/RP1A.186BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; Motorola Nokia 8.3 Build/RP1A.263BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 9; Google Galaxy S21 Build/RP1A.404BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 9; OnePlus Galaxy S21 Build/RP1A.215BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 8.0; Huawei LG V60 ThinQ Build/RP1A.435BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 5.1.1; HTC Galaxy S21 Build/RP1A.905BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 5.1.1; Nokia LG V60 ThinQ Build/RP1A.269BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 10; Samsung LG V60 ThinQ Build/RP1A.697BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.0; Xiaomi Moto G9 Play Build/RP1A.713BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 11; Xiaomi Galaxy S21 Build/RP1A.208BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 9; Xiaomi Pixel 5 Build/RP1A.316BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 7.0; Samsung OnePlus 9 Pro Build/RP1A.498BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 9; Nokia Mi 11 Build/RP1A.392BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; Sony Galaxy S21 Build/RP1A.125BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 12; Sony Moto G9 Play Build/RP1A.102BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; Google Galaxy S21 Build/RP1A.755BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 10; HTC Xperia XZ3 Build/RP1A.670BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; LG Xperia XZ3 Build/RP1A.303BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.1; LG Moto G9 Play Build/RP1A.760BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 11; Huawei LG V60 ThinQ Build/RP1A.842BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.0; Motorola Moto G9 Play Build/RP1A.344BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Galaxy S21 Build/RP1A.962BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 8.1; Samsung Galaxy S21 Build/RP1A.225BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 10; HTC Nokia 8.3 Build/RP1A.980BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Google LG V60 ThinQ Build/RP1A.192BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 8.1; LG Galaxy S21 Build/RP1A.189BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 11; Motorola Nokia 8.3 Build/RP1A.881BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 11; Huawei OnePlus 9 Pro Build/RP1A.500BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 9; Sony Moto G9 Play Build/RP1A.664BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.0; Samsung OnePlus 9 Pro Build/RP1A.686BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 8.0; Huawei LG V60 ThinQ Build/RP1A.555BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 8.1; Huawei Nokia 8.3 Build/RP1A.855BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 5.1.1; Sony OnePlus 9 Pro Build/RP1A.440BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.0; Nokia LG V60 ThinQ Build/RP1A.971BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 5.1.1; Google HTC U12+ Build/RP1A.274BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 10; Huawei Galaxy S21 Build/RP1A.486BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 5.1.1; LG HTC U12+ Build/RP1A.735BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 6.0; Huawei Mi 11 Build/RP1A.126BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 7.1.1; Google Moto G9 Play Build/RP1A.249BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; LG Galaxy S21 Build/RP1A.608BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 5.1.1; Motorola Galaxy S21 Build/RP1A.579BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; Samsung Mi 11 Build/RP1A.600BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 10; Motorola Moto G9 Play Build/RP1A.150BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 12; LG Mate 40 Pro Build/RP1A.642BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; Google HTC U12+ Build/RP1A.242BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 10; Huawei Mate 40 Pro Build/RP1A.741BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 6.0; Samsung Nokia 8.3 Build/RP1A.712BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 10; HTC Moto G9 Play Build/RP1A.189BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.0; Samsung Nokia 8.3 Build/RP1A.664BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 12; Xiaomi Galaxy S21 Build/RP1A.537BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 7.1.1; Motorola Nokia 8.3 Build/RP1A.858BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.1; OnePlus Xperia XZ3 Build/RP1A.368BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 J.K.Rowling
+Mozilla/5.0 (Linux; Android 12; LG Pixel 5 Build/RP1A.123BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 6.0; Samsung HTC U12+ Build/RP1A.225BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.1; Samsung Pixel 5 Build/RP1A.925BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 8.0; Motorola LG V60 ThinQ Build/RP1A.701BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.1; Samsung Xperia XZ3 Build/RP1A.611BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.0; Google HTC U12+ Build/RP1A.740BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; Sony OnePlus 9 Pro Build/RP1A.611BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 MargaretAtwood
+Mozilla/5.0 (Linux; Android 8.0; Nokia Xperia XZ3 Build/RP1A.158BSQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 9; Nokia Nokia 8.3 Build/RP1A.871BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 11; Nokia Pixel 5 Build/RP1A.625BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 DanBrown
+Mozilla/5.0 (Linux; Android 5.1.1; Google Xperia XZ3 Build/RP1A.961BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 7.1.1; Google HTC U12+ Build/RP1A.346BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 StephenKing
+Mozilla/5.0 (Linux; Android 12; Xiaomi Xperia XZ3 Build/RP1A.235BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 8.0; Google Nokia 8.3 Build/RP1A.285BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 11; HTC Xperia XZ3 Build/RP1A.558BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 5.1.1; Samsung Mi 11 Build/RP1A.789BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 OPR/71.2.2476.136 TerryPratchett
+Mozilla/5.0 (Linux; Android 12; Huawei Mi 11 Build/RP1A.719BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
+Mozilla/5.0 (Linux; Android 7.0; Huawei OnePlus 9 Pro Build/RP1A.132BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 11; Sony LG V60 ThinQ Build/RP1A.140BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36 OPR/71.2.2476.136 JohnGrisham
+Mozilla/5.0 (Linux; Android 10; Huawei Xperia XZ3 Build/RP1A.158BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36 OPR/71.2.2476.136 GeorgeR.R.Martin
+Mozilla/5.0 (Linux; Android 7.1.1; HTC HTC U12+ Build/RP1A.739BSP) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 AgathaChristie
+Mozilla/5.0 (Linux; Android 7.1.1; Google Moto G9 Play Build/RP1A.549BSPQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Mobile Safari/537.36 OPR/71.2.2476.136 HarukiMurakami
+Mozilla/5.0 (Linux; Android 8.1; HTC Mate 40 Pro Build/RP1A.257BSPG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36 OPR/71.2.2476.136 PhilipPullman
